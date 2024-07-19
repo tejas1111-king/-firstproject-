@@ -1,3 +1,3 @@
 # -firstproject-
-This is my first Git Repository.                                                                                                         
-Author - Tejas Pathak
+This is my first Git Repository.
+Author - Tejas Pathak (apna app)
